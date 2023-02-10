@@ -12,8 +12,8 @@
 
 Instructions.
 
-control (click) element needs to have the class .collapseContol
-the collapsing content needs to have the class .collapseContent
+control (click) element needs to have the class .collapsible
+the collapsing content needs to have the class .colcontent
 
 
 example:
