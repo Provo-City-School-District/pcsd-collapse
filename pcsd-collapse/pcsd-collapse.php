@@ -8,7 +8,7 @@
 * License: GPLv2
 * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  
-instructions use: https://www.w3schools.com/howto/howto_js_collapsible.asp
+
 
 Instructions.
 
