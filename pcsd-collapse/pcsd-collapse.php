@@ -4,7 +4,7 @@
 * Plugin URI: https://github.com/Provo-City-School-District/pcsd-collapse
 * Description: add a collapsible feature
 * Author: Josh Espinoza
-* Version: 1.0
+* Version: 1.01
 * License: GPLv2
 * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  

@@ -15,11 +15,16 @@
 }
 
 /* Style the collapsible content. Note: hidden by default */
+ul.colcontent {
+  margin:-15px 0 0 0!important;
+
+}
 .colcontent {
   padding: 0 18px;
   display: none;
   background-color: var(--even-color);
   margin-top: -15px!important;
+  
 }
 
 
