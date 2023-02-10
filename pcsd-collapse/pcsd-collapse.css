@@ -11,6 +11,7 @@
 .collapsible.active,
 .collapsible:hover {
   background-color: var(--light-grey);
+  margin-bottom: 0;
 }
 
 /* Style the collapsible content. Note: hidden by default */
@@ -18,7 +19,7 @@
   padding: 0 18px;
   display: none;
   background-color: var(--even-color);
-  margin-top: -15px;
+  margin-top: -15px!important;
 }
 
 
